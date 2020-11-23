@@ -19,7 +19,7 @@ h1{
    height:30px;
    font-style:italic;
    text-align:center;
-    text-shadow: 2px 2px #ff0000;
+    text-shadow: 2px 2px green;
   } 
 h2{
    font-family:sans-serif;
