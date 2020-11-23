@@ -1,0 +1,87 @@
+body{
+     width:60%;
+     margin:auto;
+     background-color:white;
+     }
+
+
+#contact{
+    text-align:right;
+ 
+    }
+ 
+#logo{
+      float:left;
+ }
+
+h1{
+   font-family:sans-serif;
+   height:30px;
+   font-style:italic;
+   text-align:center;
+  } 
+h2{
+   font-family:sans-serif;
+   height:20px;
+   font-style:italic;
+   text-align:center;
+   color:lime;
+  }
+
+#mainmenu{
+	text-align:right;
+	background-color:green;
+	margin-top:20px;
+	padding:10px;
+   }
+
+#mainimage{
+        width:100%;
+	height:60%;
+	}
+#lt{
+	width:40%;
+	height:100%;
+	float:left;
+    }
+
+#ab{
+	width:58%;
+	height:100%;
+	float:right;
+     }
+#lthead{
+	background-color:forestgreen;
+	color:white;
+	padding:10px;
+      }
+
+#abhead{
+	background-color:mediumseagreen;
+	color:black;
+	padding:10px;
+      }
+#frstpara{
+	font-family:aerial;
+	font-style:italic;
+	font-weight:bold;
+      }
+#marstyle{
+	background-color:springgreen;
+	padding:10px;
+	height:100px;
+	}
+#abds{
+	background-color:lightgreen;
+	padding:10px;
+	height:100px;
+	}
+
+h4{ 
+	font-family:aerial;
+	height:30px;
+        font-style:italic;
+	color:blue;
+	}
+
+  
