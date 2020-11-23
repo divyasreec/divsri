@@ -1,30 +1,55 @@
-body{
-     width:60%;
-     margin:auto;
-     background-color:lightgreen;
-     }
+<!DOCTYPE html>
+<html> 
+ <head>
+    <title>Kerala</title>
+     <link rel="stylesheet" type="text/css" href="website.css"/>
+ </head>
+    <body>
+	   <div id="contact">
+	   phone number:34684485960 email:kerala@gmail.com
+	   </div>
+	   
+           <h1>  KANNUR(Cannanore) </h1>
+	   <h2><em>Land of looms and lores</em></h2></br></br>
+	   <hr />
+	   <div id="mainmenu">
+	     | About us|
+	   </div>
+          
+	   <img src="kannur.jpg" alt="keralam " id="mainimage"/>
+	   <p id="frstpara">
+		Kannur is a coastal city in the south Indian state of Kerala. It was once an ancient trading port. Enduring monuments such as 16th-century St.
+		 Angelo Fort, once occupied by European colonial forces, show the city’s significant role in the spice trade. Housed in a former palace, the Arakkal
+		 Museum highlights Kerala's one Muslim royal family. The palm-fringed sands of Payyambalam Beach run along Kannur’s western shore.
 
-#contact{
-    text-align:right;
-    }
-#logo{
-      float:left;
- }
-
-h1,h2{
-   height:30px;
-   font-style:italic;
-  } 
 
 
-#mainmenu{
-	text-align:right;
-	background-color:pink;
-	margin-top:20px;
-	padding:10px;
-   }
+	   </p>
+	  <h3> <a href="touristplace.html">places you don't want to miss>></h3>
+	  <h3><a href="foodknr.html">special food items in kannur>></h3> 
+	  <h3><a href="monuments.html">Historical monuments>></h3>
+ <hr/>
+	   <div>
+	      <div id="lt">
+		<h3 id="lthead">Latest news</h3>
+		<div id="marstyle">
+		<marquee direction="left" scrollamount="2">yudgfekhfu hjfkfhyuekg iujefhuyg<hr/>ytfdtyf hgdgyeg<hr/></marquee>
+		</div>
+	      </div>
+	     <div id="ab">
+		<h3 id="abhead">geographical location</h3>
+		<div id="abds">
+		 
+		<p>Kannur is located towards north of Kozhikode (Calicut, India) south of Mangalore and towards the west of Western Ghats
+	 Coorg and mananthavady taluk of Wayanad.</p>
 
-#mainimage{
-        width:100%;
-	height:60%;
-	}
+
+		</div>
+	     </div>
+       	   </div>
+		<hr />
+
+    </body>
+</html> 
+
+		   
