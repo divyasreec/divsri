@@ -19,12 +19,13 @@ h1{
    height:30px;
    font-style:italic;
    text-align:center;
+    text-shadow: 2px 2px #ff0000;
   } 
 h2{
    font-family:sans-serif;
    height:20px;
    font-style:italic;
-   text-align:center;
+   text-align:right;
    color:brown;
   }
 
